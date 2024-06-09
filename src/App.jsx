@@ -5,7 +5,7 @@ import AboutPage from "./Pages/AboutPage"
 const App = () => {
   return (
    <>
-     <AboutPage/>
+     <div className="h-screen"><AboutPage/></div>
    </>
   )
 }
