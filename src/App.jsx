@@ -1,15 +1,11 @@
-import About from "./layout/About"
-import Footer from "./layout/Footer"
-import NavBar from "./layout/NavBar"
+import AboutPage from "./Pages/AboutPage"
+
 
 
 const App = () => {
   return (
    <>
-     <NavBar/>
-      
-     <About/>
-    <Footer/>
+     <AboutPage/>
    </>
   )
 }

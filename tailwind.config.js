@@ -21,6 +21,6 @@ export default {
   ],
 
   daisyui: {
-    themes: [ "night", "cmyk"],
+    themes: [ "autumn", "cmyk", "luxury"],
   },
 }
