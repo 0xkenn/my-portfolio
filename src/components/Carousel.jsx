@@ -5,7 +5,7 @@ import tailwind from '../assets/techstack/tailwindcss-icon.svg'
 const Carousel = () => {
   return (
     <>
-      <div className="carousel rounded-box">
+      <div className="carousel rounded-box animate-bounce">
   <div className="carousel-item">
     <img src={laravel} alt="Burger" />
   </div> 
