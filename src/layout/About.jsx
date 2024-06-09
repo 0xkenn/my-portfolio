@@ -5,7 +5,7 @@ import AboutMe from '../components/AboutMe';
 const About = () => {
   return (
     <>
-      <div className="flex justify-center text-center text-2xl md:text-3xl font-extrabold font-mono mt-5 px-2 sm:overflow-scroll">
+      <div className="flex justify-center text-center text-2xl md:text-3xl font-extrabold font-mono mt-5 px-2 sm:overflow-auto">
         Hi, Im Kenny Charles U. Tabon
       </div>
       
