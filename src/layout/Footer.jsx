@@ -1,7 +1,7 @@
 import github from '../assets/techstack/RiGithubFill.svg'
 const Footer = () => {
   return (
-    <footer className="fixed bottom-0 footer p-5 bg-neutral text-neutral-content">
+    <footer className="sticky top-[100vh] footer p-5 bg-neutral text-neutral-content">
     <aside>
       
       <p className="font-bold font-mono">0xkenn</p>
