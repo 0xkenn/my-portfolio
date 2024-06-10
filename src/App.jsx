@@ -8,7 +8,7 @@ const App = () => {
   return (
    <>
   
-     <div className=" flex flex-col h-screen">
+     <div className=" flex flex-col h-screen ">
      <NavBar/>
       <AboutPage/>
       <Footer/></div>

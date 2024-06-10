@@ -5,7 +5,7 @@ import AboutMe from '../components/AboutMe';
 const About = () => {
   return (
     <>
-      <div className="flex justify-center text-center text-2xl md:text-3xl font-extrabold font-mono mt-5 px-2 sm:overflow-auto">
+      <div className="containerflex justify-center text-center text-2xl md:text-3xl font-extrabold font-mono mt-5 px-2 sm:overflow-auto">
         Hi, Im Kenny Charles U. Tabon
       </div>
       
@@ -15,7 +15,7 @@ const About = () => {
       
       <div className="flex  flex-col md:flex-row items-center mt-10 xl:mx-60 md:mx-5 sm:mx-5 space-y-10 md:space-y-0 md:space-x-10 lg:space-x-20">
         {/* Column 1: AboutMe */}
-        <div className="flex flex-col w-full 2xl:w-full    md:w-1/2 lg:w-3/4 p-5 border border-amber-500 dark:border">
+        <div className="flex flex-col w-full 2xl:w-full    md:w-1/2 lg:w-3/4 p-5 ">
           <AboutMe />
         </div>
         
